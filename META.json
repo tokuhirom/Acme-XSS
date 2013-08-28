@@ -1,5 +1,5 @@
 {
-   "abstract" : "XSS",
+   "abstract" : "\"><xmp>XSS Testing",
    "author" : [
       "Tokuhiro Matsuno <tokuhirom AAJKLFJEF GMAIL COM>"
    ],
