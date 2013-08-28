@@ -1,13 +1,15 @@
 package Acme::XSS;
 use strict;
 use warnings;
-use 5.008008;
-our $VERSION = '0.01';
+use 5.013001;
+our $VERSION = '0.02';
 
 
 
 1;
 __END__
+
+=for stopwords xmp XSS
 
 =encoding utf8
 

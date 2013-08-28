@@ -42,12 +42,23 @@
       },
       "runtime" : {
          "requires" : {
-            "perl" : "5.008008"
+            "perl" : "5.01301"
          }
       }
    },
    "release_status" : "unstable",
-   "version" : "0.01",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/tokuhirom/Acme-XSS/issues"
+      },
+      "homepage" : "https://github.com/tokuhirom/Acme-XSS",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/tokuhirom/Acme-XSS.git",
+         "web" : "https://github.com/tokuhirom/Acme-XSS"
+      }
+   },
+   "version" : "0.02",
    "x_contributors" : [
       "tokuhirom <tokuhirom@gmail.com>"
    ]

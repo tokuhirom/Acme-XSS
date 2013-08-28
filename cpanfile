@@ -1,1 +1,1 @@
-requires 'perl', 'v5.8.1';
+requires 'perl', '5.01301';

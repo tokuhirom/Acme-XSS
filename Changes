@@ -2,5 +2,9 @@ Revision history for Perl extension Acme::XSS
 
 {{$NEXT}}
 
+0.02 2013-08-28T09:07:05Z
+
+    - more xss stuff
+
 0.01    Tue Oct 18 19:44:03 2011
     - original version
