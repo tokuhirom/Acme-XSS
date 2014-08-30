@@ -2,6 +2,10 @@ Revision history for Perl extension Acme::XSS
 
 {{$NEXT}}
 
+0.03 2014-08-30T09:40:13Z
+
+    - Fixed error in META.json.
+
 0.02 2013-08-28T09:07:05Z
 
     - more xss stuff
